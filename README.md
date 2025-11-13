@@ -72,7 +72,7 @@ My philosophy is simple — **`clarity in design, precision in logic, and purpos
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" style="margin: 10px;"/>
   <a href="https://www.rust-lang.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50" height="50" alt="Rust" style="margin: 10px;"/>
+  <img src="rust-logo_svgstack_com_202511136839 (1).svg" width="50" height="50" alt="Rust" style="margin: 10px;"/>
 </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" style="margin: 10px;"/>
