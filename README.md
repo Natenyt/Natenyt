@@ -5,7 +5,8 @@
 I’m a **backend-focused developer** passionate about designing scalable, intelligent systems that merge **AI automation, clean UX, and robust backend logic**.  
 My philosophy is simple — **`clarity in design, precision in logic, and purpose in every line of code.`**
 
-- 🔭 Currently working on **[Narpay Government System Powered by AI](https://github.com/Natenyt/AI-Powered-Government-System)**  
+- 🔭 Currently working on **[Narpay Government System Powered by AI](https://github.com/Natenyt/AI-Powered-Government-System)**
+- 🧪 Exprementing on this **[GovAI-MultiBackend](https://github.com/Natenyt/GovAI-MultiBackend)**
 - 🌱 Exploring **DevOps & Scalable Architecture**  
 - ⚡ Fun fact: **I hate JAVA**   
 
