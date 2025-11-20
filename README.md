@@ -12,7 +12,7 @@ My philosophy is simple — **`clarity in design, precision in logic, and purpos
 
 
 <p align="left">
-  <a href="https://t.me/natenyt" target="_blank">
+  <a href="https://t.me/nathan_2net" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://twitter.com/nytallard" target="_blank">
@@ -21,7 +21,7 @@ My philosophy is simple — **`clarity in design, precision in logic, and purpos
   <a href="https://linkedin.com/in/davlat-eshnazarov-0ab8a136b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/nathan_2net" target="_blank">
+  <a href="https://i" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
