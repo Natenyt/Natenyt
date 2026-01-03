@@ -1,16 +1,17 @@
-## Hi there 👋
+# Eshnazarov Davlat
 
-<!--
-**Natenyt/Natenyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Software Engineer`**
 
-Here are some ideas to get you started:
+Software engineer building and maintaining production systems — including government-scale platforms and independent products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building a startup product nearing production
+- ✅ Shipped ntmp-appeal-system (AI-powered government platform)
+- ☑️ In production: NTMP — https://narpaymurojaat.uz
+- 🔒 Some work is private due to organizational constraints
+
+
+---
+#### ⚒️ Languages-Frameworks-Tools ⚒️ 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,postgresql,mysql,docker,nginx,git" />
+</div>
