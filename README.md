@@ -5,7 +5,7 @@
 Software engineer building and maintaining production systems — including government-scale platforms and independent products.
 
 - 🔭 Building a startup product nearing production
-- ✅ Shipped ntmp-appeal-system (AI-powered government platform)
+- ✅ Shipped [ntmp-appeal-system](https://github.com/Natenyt/ntmp-stable-v-1) (AI-powered government platform)
 - ☑️ In production: NTMP — https://narpaymurojaat.uz
 - 🔒 Some work is private due to organizational constraints
 
